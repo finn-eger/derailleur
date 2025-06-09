@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Open documentation",
+    "command": "cargo doc",
+    "args": ["--open", "--no-deps", "--document-private-items"],
+    "reveal": "never",
+    "hide": "on_success"
+  }
+]
